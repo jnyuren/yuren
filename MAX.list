@@ -5,10 +5,13 @@
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 45
 # PROCESS-NAME: 1
-# TOTAL: 47
+# TOTAL: 50
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN-SUFFIX,events.prd.api.discomax.com
+DOMAIN-SUFFIX,images.cdn.prd.api.discomax.com
+DOMAIN-SUFFIX,asia.prd.media.max.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net
 DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
