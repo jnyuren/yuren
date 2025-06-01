@@ -8,6 +8,8 @@
 # IP-CIDR: 2
 # USER-AGENT: 1
 # TOTAL: 32
+DOMAIN-KEYWORD,-spotify-
+DOMAIN-KEYWORD,spotify.com
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
@@ -15,8 +17,6 @@ DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,spclient.wg.spotify.com:443
-DOMAIN-SUFFIX,login5.spotify.com:443
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,pscdn.co
