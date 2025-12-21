@@ -1,0 +1,9 @@
+# giffgaff & WiFi-Calling 專用分流規則
+
+
+# 1. giffgaff 官網與 App 分流 (建議走英國節點以保持帳戶地區一致)
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,gaff.io
+DOMAIN-SUFFIX,epc.mnc010.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epc.mnc010.mcc234.pub.3gppnetwork.org
+DOMAIN-KEYWORD,3gppnetwork
